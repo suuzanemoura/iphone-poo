@@ -1,18 +1,26 @@
-## Getting Started
+# Projeto Orientação a Objetos e UML: Diagramação de Classes do iPhone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Introdução
 
-## Folder Structure
+Modelagem das classes e interfaces em Java com a proposta de representar os papéis do iPhone de: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet. E também representação em diagramação e modalagem UML.
 
-The workspace contains two folders by default, where:
+## Diagramação UML
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+![Diagrama UML representando o iPhone](./src/assets/UML.drawio.svg)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+_Nota: O diagrama foi feito utilizando o site [draw.io](https://draw.io/)._
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Tecnologias
 
-## Dependency Management
+![java](https://img.shields.io/badge/java-4F5B93?style=for-the-badge&logo=Java&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Status do projeto
+
+- Concluído ⏳
+
+## <img alt="Coração Roxo" height="15" src="https://github.com/suuzanemoura/suuzanemoura/assets/104701271/ce158244-38f2-4162-b0a4-24b1cfa66ef8"> Contato
+
+[![Email](https://img.shields.io/badge/-Gmail-EBE2F1?style=for-the-badge&logo=gmail&logoColor=460C68)](mailto:suuzanemoura@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EBE2F1?style=for-the-badge&logo=linkedin&logoColor=460C68)](https://www.linkedin.com/in/suuzanemoura)
+[![Behance](https://img.shields.io/badge/-Behance-EBE2F1?style=for-the-badge&logo=behance&logoColor=460C68)](https://www.behance.net/suzanemoura)

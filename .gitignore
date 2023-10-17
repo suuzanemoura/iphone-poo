@@ -1,4 +1,6 @@
-*.vscode/
+### VisualStudioCode ###
+.vscode/*
+
 
 # Compiled class file
 *.class

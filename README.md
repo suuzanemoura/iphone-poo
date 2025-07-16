@@ -1,23 +1,72 @@
-# Projeto Orientação a Objetos e UML: Diagramação de Classes do iPhone
+# Projeto: Orientação a Objetos e UML – Diagramação de Classes do iPhone
 
 ## Introdução
 
-Modelagem das classes e interfaces em Java com a proposta de representar os papéis do iPhone de: Reprodutor Musical, Aparelho Telefônico e Navegador na Internet. E também representação em diagramação e modalagem UML.
+Este projeto consiste na modelagem de classes e interfaces em **Java**, com a proposta de representar os papéis funcionais do iPhone como:
+
+- **Reprodutor Musical**
+- **Aparelho Telefônico**
+- **Navegador de Internet**
+
+Além disso, o projeto conta com a **diagramação UML** para representar graficamente as estruturas e relacionamentos entre as classes e interfaces envolvidas.
 
 ## Diagramação UML
 
 ![Diagrama UML representando o iPhone](./src/assets/UML.drawio.svg)
 
-_Nota: O diagrama foi feito utilizando o site [draw.io](https://draw.io/)._
+> _Diagrama desenvolvido com a ferramenta [draw.io](https://draw.io/)
 
 ## Tecnologias
 
-![java](https://img.shields.io/badge/java-4F5B93?style=for-the-badge&logo=Java&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- Java
+- Git
 
+## Instalação
+
+### Pré-requisitos
+
+- [Java JDK 8+](https://www.oracle.com/java/technologies/javase-downloads.html) instalado
+- Git instalado (opcional, se quiser clonar o projeto)
+- Terminal ou prompt de comando
+
+### Passo a passo
+
+1. **Clone o repositório:**
+
+```bash
+git clone https://github.com/suuzanemoura/iphone-poo.git
+```
+
+2. **Acesse o diretório do projeto:**
+
+```bash
+cd iphone-poo
+```
+
+3. **Compile os arquivos Java (dentro da pasta `src`):**
+
+```bash
+javac src/*.java
+```
+
+4. **Execute o programa principal (`Iphone.java`):**
+
+```bash
+java -cp src Iphone
+```
+
+> O projeto não utiliza pacotes (`package`), então a execução é direta a partir da pasta `src/`.
+
+## Destaques do Projeto
+
+- Uso de **interfaces Java** para simular múltiplas funcionalidades de um dispositivo real.
+- Aplicação dos princípios da **Programação Orientada a Objetos (POO)**.
+- **Diagrama UML** seguindo as boas práticas de modelagem.
+
+  
 ## Status do projeto
 
-- Concluído ⏳
+- ✅ Concluído
 
 ## <img alt="Coração Roxo" height="15" src="https://github.com/suuzanemoura/suuzanemoura/assets/104701271/ce158244-38f2-4162-b0a4-24b1cfa66ef8"> Contato
 
